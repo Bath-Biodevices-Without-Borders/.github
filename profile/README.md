@@ -1,6 +1,6 @@
 # Biodevices Without Borders
 
-![Biodevices Without Borders Logo!](/img/option%202%20-%20dark.png "Biodevices Without Borders Logo")
+![Biodevices Without Borders Logo!](/profile/img/option%202%20-%20dark.png "Biodevices Without Borders Logo")
 
 ## 💫 About Us
 
